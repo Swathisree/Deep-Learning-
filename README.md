@@ -1,1 +1,1 @@
-# SampleRepo
+This is a git hub repo that is used by me to learn fast.ai projects 
